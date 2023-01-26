@@ -1,7 +1,7 @@
 # AP_STANDALONE
 step by step configuration light AP to stand alone AP from CISCO
 
-credentionals in model 1602I
+credentionals in model 1602I  
 login: Cisco
 password: Cisco
 enable: Cisco
