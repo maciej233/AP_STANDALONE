@@ -9,3 +9,5 @@ enable: Cisco
 
 Aby wgrac obraz do pracy smodzielnej wifi, nalezy ustawić server tftp z nowym IOS i zrestarować
 access point z włączonym przyciskiem MOD
+
+należy zwrócić uwagę na nazwę IOS. powinien mieć w nazwie .default
